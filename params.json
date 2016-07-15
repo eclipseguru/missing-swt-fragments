@@ -1,0 +1,6 @@
+{
+  "name": "Missing SWT Fragments",
+  "tagline": "Dummy fragments for SWT missing in Eclipse Neon",
+  "body": "This is an Eclipse update site. Simply point your target definition here and include the feature to get the missing SWT fragments into your build.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
