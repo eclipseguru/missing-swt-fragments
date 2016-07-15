@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.swt.gtk.solaris.sparc;singleton:=true
+Bundle-Name: SWT Fake Fragment
+Bundle-Version: 3.105.0.v20160603-0902
+Fragment-Host: org.eclipse.swt;bundle-version="3.105.0.v20160603-0902"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-PlatformFilter: (& (osgi.ws=gtk) (osgi.os=solaris) (osgi.arch=sparc))
