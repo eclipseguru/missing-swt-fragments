@@ -27,10 +27,10 @@
     <buildId>${buildType}${buildTimestamp}</buildId>
     <buildLabel>${buildType}-${buildId}-${buildTimestamp}</buildLabel>
 
-    <forceContextQualifier>v20160603-0902</forceContextQualifier>
+    <forceContextQualifier>v20160907-0248</forceContextQualifier>
 
-    <tycho.version>0.25.0</tycho.version>
-    <tycho-extras.version>0.25.0</tycho-extras.version>
+    <tycho.version>0.26.0</tycho.version>
+    <tycho-extras.version>0.26.0</tycho-extras.version>
 
     <eclipse-p2-repo.url>http://download.eclipse.org/eclipse/updates/4.6/</eclipse-p2-repo.url>
 
