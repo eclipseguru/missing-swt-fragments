@@ -9,5 +9,6 @@
   <children>
     <child location='neon' />
     <child location='neon.1' />
+    <child location='neon.2' />
   </children>
 </repository>
