@@ -11,7 +11,7 @@
 
   <groupId>org.eclipse.swt</groupId>
   <artifactId>org.eclipse.swt.gtk.linux.arm</artifactId>
-  <version>3.105.1-SNAPSHOT</version>
+  <version>3.105.2-SNAPSHOT</version>
   <packaging>eclipse-plugin</packaging>
 
   <properties>

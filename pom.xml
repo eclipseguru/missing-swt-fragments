@@ -27,7 +27,7 @@
     <buildId>${buildType}${buildTimestamp}</buildId>
     <buildLabel>${buildType}-${buildId}-${buildTimestamp}</buildLabel>
 
-    <forceContextQualifier>v20160907-0248</forceContextQualifier>
+    <forceContextQualifier>v20161122-0613</forceContextQualifier>
 
     <tycho.version>0.26.0</tycho.version>
     <tycho-extras.version>0.26.0</tycho-extras.version>
