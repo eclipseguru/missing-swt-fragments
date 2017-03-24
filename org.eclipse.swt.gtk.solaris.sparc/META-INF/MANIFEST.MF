@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipse.swt.gtk.solaris.sparc;singleton:=true
 Bundle-Name: SWT Fragment Dummy gtk.solaris.sparc
-Bundle-Version: 3.105.2.qualifier
+Bundle-Version: 3.105.3.qualifier
 Fragment-Host: org.eclipse.swt;bundle-version="[3.0.0,4.0.0)"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: 
